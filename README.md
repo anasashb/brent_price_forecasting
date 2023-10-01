@@ -5,4 +5,5 @@ The out-of-sample forecast period is from September 2016 to April 2023.
 
 Custom functions for grid search and stateful training used in the LSTM notebooks were later refined, extended and wrapped up in a StatefulLSTM class in the following [repository](https://github.com/anasashb/stateful_lstm_wrapper_for_keras).
 
+Note that the repository was created from some of the notebooks and files that had to be migrated from a different environment to another and therefore paths specified within the notebooks will not be the same as that in the repository itself
 
